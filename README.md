@@ -1,7 +1,22 @@
-### Xin chào, mình là Huy Vũ 👋
+<h1 align="center">Xin chào, mình là Huy Vũ 👋</h1>
 
-Full Stack Developer · Hải Dương, Việt Nam
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Node.js+%7C+ReactJS;H%E1%BA%A3i+D%C6%B0%C6%A1ng%2C+Vi%E1%BB%87t+Nam" alt="Full Stack Developer" />
+</p>
 
-#### Kỹ năng
+### 🧑‍💻 Về mình
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Full Stack Developer ở Hải Dương, Việt Nam. Mình làm web cả phía server với Node.js lẫn giao diện với ReactJS.
+
+### 🛠️ Công nghệ
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,ts,js,tailwind,vite&theme=dark" alt="Skills" />
+</p>
+
+### 📊 GitHub
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=huyvu2302&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=huyvu2302&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
